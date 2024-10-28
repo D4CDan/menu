@@ -73,4 +73,12 @@ h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: azure;
     background-color: #3B5555;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.Tapetes{
+    border-radius: 50%;
+    height: 350px;
+    padding: 20px;
 }
